@@ -1,1 +1,2 @@
-# CLI_TicTacToe
+# Command Line Game TicTacToe
+
